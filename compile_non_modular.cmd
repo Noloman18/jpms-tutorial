@@ -1,0 +1,1 @@
+ javac -d output\runner --source-path ".\nav.core\;.\nav.impl\;.\runner\" .\runner\za\co\fnb\nav\runner\Runner.java

@@ -3,6 +3,7 @@ package za.co.fnb.nav.impl.services;
 import java.util.*;
 
 import za.co.fnb.nav.car.core.*;
+import za.co.fnb.nav.impl.services.internal.*;
 import za.co.fnb.nav.car.core.services.*;
 
 public class CustomerServiceImpl implements CustomerService {
